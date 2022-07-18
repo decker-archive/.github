@@ -14,8 +14,8 @@ Please note, some of these projects are still work-in-progress and not publicly 
   - Converse - Derailed's Voice & Streaming Mega Cluster, written in rust.
   - Verge - Derailed's at-the-edge system, replacing overused routes and will replace the Gateway as the Notification System.
 - [Cavalcade](https://github.com/derailedapp/cavalcade)
-  - Monolith - The frontpage of Derailed and various other infographics.
-  - Verdux - The Derailed Web Application.
+  - Derailed Frontpage - The frontpage of Derailed and various other infographics.
+  - Derailed App - The Derailed Web Application.
 - Uncategorized
-  - Deskscape - The Derailed Desktop Application.
-  - Amnesia - The Derailed Mobile Application.
+  - Derailed Desktop - The Derailed Desktop Application.
+  - Derailed Mobile - The Derailed Mobile Application.
