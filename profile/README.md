@@ -7,15 +7,13 @@ First off, all of these projects are also indexed on our [progress board](https:
 
 Please note, some of these projects are still work-in-progress and not publicly available.
 
-- [Backend](https://github.com/derailedapp/backend)
-  - Polynode - Derailed's Main API Node.
-  - Petabyte - Derailed's Pythonic Database config.
-  - Beam - Derailed's Gateway and Notification System.
-  - Converse - Derailed's Voice & Streaming Mega Cluster, written in rust.
-  - Verge - Derailed's at-the-edge system, replacing overused routes and will replace the Gateway as the Notification System.
+- Backend
+  - Derailed API - Derailed's API.
+  - Derailed Beam - Derailed's Notification System.
+  - Derailed Media - Derailed's Voice & Streaming System.
 - [Cavalcade](https://github.com/derailedapp/cavalcade)
-  - Derailed Frontpage - The frontpage of Derailed and various other infographics.
+  - Derailed - The frontpage of Derailed and various other infographics.
   - Derailed App - The Derailed Web Application.
-- Uncategorized
+- Applications
   - Derailed Desktop - The Derailed Desktop Application.
   - Derailed Mobile - The Derailed Mobile Application.
