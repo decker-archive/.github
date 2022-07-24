@@ -7,14 +7,5 @@ First off, all of these projects are also indexed on our [progress board](https:
 
 Please note, some of these projects are still work-in-progress and not publicly available.
 
-- Backend
-  - Derailed API - Derailed's API.
-  - Derailed Beam - Derailed's Notification System.
-  - Derailed Media - Derailed's Voice & Streaming System.
-  - Derailed Delta - Derailed's Gateway for fanning out events.
-- [Cavalcade](https://github.com/derailedapp/cavalcade)
-  - Derailed - The frontpage of Derailed and various other infographics.
-  - Derailed App - The Derailed Web Application.
-- Applications
-  - Derailed Desktop - The Derailed Desktop Application.
-  - Derailed Mobile - The Derailed Mobile Application.
+- Montero - Derailed's Official Decentralized Implementation.
+- Matria - Derailed's Frontend & Application Services.
