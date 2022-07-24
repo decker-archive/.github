@@ -11,6 +11,7 @@ Please note, some of these projects are still work-in-progress and not publicly 
   - Derailed API - Derailed's API.
   - Derailed Beam - Derailed's Notification System.
   - Derailed Media - Derailed's Voice & Streaming System.
+  - Derailed Delta - Derailed's Gateway for fanning out events.
 - [Cavalcade](https://github.com/derailedapp/cavalcade)
   - Derailed - The frontpage of Derailed and various other infographics.
   - Derailed App - The Derailed Web Application.
