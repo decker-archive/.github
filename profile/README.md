@@ -11,6 +11,7 @@ Please note, some of these projects are still work-in-progress and not publicly 
 # Prototypes
 
 - Derailed API - Derailed's Centralized API Implementation.
+- Rusk - Rewrite of Derailed's API Implementation for Rust.
 - Montero - Derailed's Official Decentralized Implementation.
   **The Speed Demon of Derailed.**
 
